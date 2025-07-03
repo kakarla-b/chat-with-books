@@ -22,6 +22,7 @@ This project is an AI-powered chatbot application designed to retrieve and answe
   
 ## Folder Structure
 chat-with-books/
+
 ├── chatbot.py # Main chatbot interface
 
 ├── embedding_dataset.py # Embedding generator from text
