@@ -23,14 +23,23 @@ This project is an AI-powered chatbot application designed to retrieve and answe
 ## Folder Structure
 chat-with-books/
 ├── chatbot.py # Main chatbot interface
+
 ├── embedding_dataset.py # Embedding generator from text
+
 ├── retrive_data_chromadb.py # ChromaDB-based retriever
+
 ├── clener.py # Data cleaning utility
+
 ├── data_analysis.py # Book data analyzer
+
 ├── booktest.csv # Sample input data
+
 ├── book_analyze.csv # Analyzed book output
+
 ├── requirements.txt # Python dependencies
+
 ├── .env # API keys and configs (not committed)
+
 └── README.md # Project documentation
 
 
